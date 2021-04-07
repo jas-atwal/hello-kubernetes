@@ -1,5 +1,5 @@
 # Provide a custom message
-message: "My demo with my image"
+message: "Mirantis Cloud Native Platform"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:

@@ -1,5 +1,5 @@
 # Provide a custom message
-message: "DevOps Enterprise Summit Demo"
+message: "DevOps Enterprise Summit Demo Stephane"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:

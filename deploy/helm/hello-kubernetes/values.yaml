@@ -1,5 +1,5 @@
 # Provide a custom message
-message: "ArgoCD Demo"
+message: "Jas' ArgoCD Demo"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:
